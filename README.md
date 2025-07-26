@@ -123,9 +123,9 @@ You can use:
 
 📧 royalrao.edu@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn:- https://www.linkedin.com/in/royal-rao-443298228/
 
-💻 GitHub
+💻 GitHub:- https://github.com/dev-royalrao
 
 ## 📄 License
 MIT License – Feel free to fork, modify, and build upon it!
