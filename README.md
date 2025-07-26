@@ -1,45 +1,45 @@
-SignSense – Real-Time Sign Language to Text Translator 🤟
-SignSense is an AI-powered system designed to recognize static hand gestures from sign language and convert them into readable text using a regular webcam. In an increasingly connected world, technology plays a vital role in making communication more inclusive—especially for individuals from the hearing-impaired community.
+**SignSense – Real-Time Sign Language to Text Translator** 
 
+SignSense is an AI-powered system designed to recognize static hand gestures from sign language and convert them into readable text using a regular webcam. In an increasingly connected world, technology plays a vital role in making communication more inclusive—especially for individuals from the hearing-impaired community.
 While sign language is a powerful communication medium, it is not widely understood outside its community. SignSense aims to bridge this gap by combining machine learning and computer vision to offer a real-time, accessible, and user-friendly solution.
 
 🔍 Key Features
-Real-time static gesture recognition using a webcam
+1. Real-time static gesture recognition using a webcam
 
-Deep learning–based gesture classification
+2. Deep learning–based gesture classification
 
-Text output for recognized signs
+3. Text output for recognized signs
 
-Simple and accessible interface
+4. Simple and accessible interface
 
 ⚙️ Tech Stack
-Python
+1. Python
 
-TensorFlow / Keras
+2. TensorFlow / Keras
 
-OpenCV
+3. OpenCV
 
-NumPy & Pandas
+4. NumPy & Pandas
 
 📌 Project Workflow
-Planning & Design
+1. Planning & Design
 
-Data Collection and Preprocessing
+2. Data Collection and Preprocessing
 
-Model Training and Evaluation
+3. Model Training and Evaluation
 
-Real-Time Integration
+4. Real-Time Integration
 
-Future Development Possibilities
+5. Future Development Possibilities
 
 🚀 Future Enhancements
-Dynamic sign (gesture sequence) recognition
+1. Dynamic sign (gesture sequence) recognition
 
-Integration with speech synthesis (text-to-speech)
+2. Integration with speech synthesis (text-to-speech)
 
-Deployment on web and mobile platforms
+3. Deployment on web and mobile platforms
 
-Multi-language support
+4. Multi-language support
 
 🤝 Contributing
 We welcome contributions! Feel free to fork the repository, raise issues, or submit pull requests.
