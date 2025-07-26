@@ -29,12 +29,19 @@ In an increasingly inclusive world, bridging communication gaps is crucial. **Si
 
 📁 signsense/
 ├── data/ # Gesture images dataset
+
 ├── models/ # Trained model files
+
 ├── notebooks/ # Development notebooks
+
 ├── signsense_app.py # Real-time application script
+
 ├── train_model.py # Model training script
+
 ├── utils.py # Helper functions
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
