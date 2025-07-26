@@ -88,22 +88,29 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 ## 🗂️ Dataset
 You can use:
 •Public datasets like Kaggle ASL
+
 •Or collect your own labeled images using the webcam
 
 ---
 
 ## 🧠 Key Features
 •Accurate recognition of static ASL gestures
+
 •Offline usage – no internet required
+
 •Easily extendable with more signs or dynamic gestures
+
 •Simple interface for demo and development
 
 ---
 
 ## 📈 Future Enhancements
 •🔄 Add support for dynamic (sequence-based) signs
+
 •🌐 Deploy as a web or mobile app
+
 •🗣️ Integrate text-to-speech for auditory feedback
+
 •🔤 Multi-language output support
 
 ---
