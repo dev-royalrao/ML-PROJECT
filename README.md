@@ -30,7 +30,9 @@ In an increasingly inclusive world, bridging communication gaps is crucial. **Si
 📁 signsense/
 
 ├── data/ # Gesture images dataset
+
 ├── models/ # Trained model files
+
 ├── notebooks/ # Development notebooks
 
 ├── signsense_app.py # Real-time application script
@@ -42,7 +44,6 @@ In an increasingly inclusive world, bridging communication gaps is crucial. **Si
 ├── requirements.txt # Python dependencies
 
 └── README.md # Project documentation
-
 
 ---
 
@@ -67,7 +68,6 @@ In an increasingly inclusive world, bridging communication gaps is crucial. **Si
 ## 🧪 How to Use
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/SignSense.git
    cd SignSense
 2. Create a virtual environment (optional but recommended):
