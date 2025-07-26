@@ -87,6 +87,7 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 ## 🗂️ Dataset
 You can use:
+
 •Public datasets like Kaggle ASL
 
 •Or collect your own labeled images using the webcam
