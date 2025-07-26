@@ -1,4 +1,4 @@
-# 🤟 SignSense – Real-Time Sign Language to Text Translator
+# SignSense – Real-Time Sign Language to Text Translator
 
 In an increasingly inclusive world, bridging communication gaps is crucial. **SignSense** is a deep learning–powered system that translates **static hand gestures** from sign language into readable text using a regular **webcam**. This project aims to make sign language more accessible by enabling real-time gesture recognition with an easy-to-use interface.
 
