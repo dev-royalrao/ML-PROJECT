@@ -1,58 +1,50 @@
-🧠🤟 SignSense – Real-Time Sign Language to Text Translator
-Welcome to SignSense – a smart and inclusive AI-powered system that translates static sign language gestures into readable text ✍️ using just a regular webcam 🎥.
+SignSense – Real-Time Sign Language to Text Translator 🤟
+SignSense is an AI-powered system designed to recognize static hand gestures from sign language and convert them into readable text using a regular webcam. In an increasingly connected world, technology plays a vital role in making communication more inclusive—especially for individuals from the hearing-impaired community.
 
-In today's world 🌍 where communication should be inclusive for all, SignSense bridges the gap between the hearing-impaired community and those unfamiliar with sign language. Built with ❤️ accessibility and practicality in mind, this project leverages the power of Machine Learning (ML) and Computer Vision (CV) to make gesture-based communication more universally understood.
+While sign language is a powerful communication medium, it is not widely understood outside its community. SignSense aims to bridge this gap by combining machine learning and computer vision to offer a real-time, accessible, and user-friendly solution.
 
-🚀 Features
-🎯 Real-time static gesture recognition using a standard webcam
+🔍 Key Features
+Real-time static gesture recognition using a webcam
 
-🤖 Built with Deep Learning for accurate classification
+Deep learning–based gesture classification
 
-📷 Uses Computer Vision for hand gesture detection
+Text output for recognized signs
 
-🧩 Easy to integrate and user-friendly interface
+Simple and accessible interface
 
-♿ Focused on accessibility and real-world application
+⚙️ Tech Stack
+Python
 
-🛠️ Tech Stack
-🐍 Python
+TensorFlow / Keras
 
-🧠 TensorFlow / Keras
+OpenCV
 
-🔍 OpenCV
+NumPy & Pandas
 
-📊 NumPy & Pandas
+📌 Project Workflow
+Planning & Design
 
-🖼️ Matplotlib (for visualization)
+Data Collection and Preprocessing
 
-📂 Project Workflow
-📋 Planning & Design
+Model Training and Evaluation
 
-🧹 Dataset Collection & Preprocessing
+Real-Time Integration
 
-🧠 Model Training & Optimization
+Future Development Possibilities
 
-🧪 Model Evaluation
+🚀 Future Enhancements
+Dynamic sign (gesture sequence) recognition
 
-🖥️ Real-Time Webcam Integration
+Integration with speech synthesis (text-to-speech)
 
-🔮 Future Improvements
+Deployment on web and mobile platforms
 
-📈 Future Plans
-✋ Add dynamic (sequence-based) sign recognition
-
-🌐 Integrate multilingual support
-
-📱 Deploy as a mobile/web app
-
-🗣️ Add Text-to-Speech for vocal feedback
+Multi-language support
 
 🤝 Contributing
-We welcome contributions from the community! Feel free to fork, open issues, or submit pull requests.
+We welcome contributions! Feel free to fork the repository, raise issues, or submit pull requests.
 
-📃 License
-MIT License – feel free to use and adapt with attribution.
+📄 License
+This project is licensed under the MIT License.
 
-If you're ready to dive into the code or try out the system, head over to the Getting Started section.
-
-SignSense – Because every gesture deserves to be understood. 🤝💬
+SignSense – Bridging the communication gap, one gesture at a time.
