@@ -28,10 +28,9 @@ In an increasingly inclusive world, bridging communication gaps is crucial. **Si
 ## 📂 Folder Structure
 
 📁 signsense/
+
 ├── data/ # Gesture images dataset
-
 ├── models/ # Trained model files
-
 ├── notebooks/ # Development notebooks
 
 ├── signsense_app.py # Real-time application script
