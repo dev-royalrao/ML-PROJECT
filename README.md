@@ -1,37 +1,113 @@
-**SignSense – Real-Time Sign Language to Text Translator** 
+# 🤟 SignSense – Real-Time Sign Language to Text Translator
 
-SignSense is an AI-powered system designed to recognize static hand gestures from sign language and convert them into readable text using a regular webcam. In an increasingly connected world, technology plays a vital role in making communication more inclusive—especially for individuals from the hearing-impaired community.
-While sign language is a powerful communication medium, it is not widely understood outside its community. SignSense aims to bridge this gap by combining machine learning and computer vision to offer a real-time, accessible, and user-friendly solution.
+In an increasingly inclusive world, bridging communication gaps is crucial. **SignSense** is a deep learning–powered system that translates **static hand gestures** from sign language into readable text using a regular **webcam**. This project aims to make sign language more accessible by enabling real-time gesture recognition with an easy-to-use interface.
 
-🔍 Key Features
-1. Real-time static gesture recognition using a webcam
-2. Deep learning–based gesture classification
-3. Text output for recognized signs
-4. Simple and accessible interface
+---
 
-⚙️ Tech Stack
-1. Python
-2. TensorFlow / Keras
-3. OpenCV
-4. NumPy & Pandas
+## 🚀 Overview
 
-📌 Project Workflow
-1. Planning & Design
-2. Data Collection and Preprocessing
-3. Model Training and Evaluation
-4. Real-Time Integration
-5. Future Development Possibilities
+**SignSense** leverages computer vision and machine learning to:
 
-🚀 Future Enhancements
-1. Dynamic sign (gesture sequence) recognition
-2. Integration with speech synthesis (text-to-speech)
-3. Deployment on web and mobile platforms
-4. Multi-language support
+- 🎥 Capture live webcam feed
+- ✋ Detect static sign language gestures
+- 🔤 Convert them into readable text in real-time
+- 📦 Provide a complete offline solution for accessibility
 
-🤝 Contributing
-We welcome contributions! Feel free to fork the repository, raise issues, or submit pull requests.
+---
 
-📄 License
-This project is licensed under the MIT License.
+## 🛠️ Tools & Technologies
 
-SignSense – Bridging the communication gap, one gesture at a time.
+- **Python** – Core programming language
+- **TensorFlow / Keras** – Deep learning model development
+- **OpenCV** – Real-time webcam feed and image processing
+- **NumPy, Pandas** – Data handling and preprocessing
+- **Matplotlib** – Model training visualization
+
+---
+
+## 📂 Folder Structure
+
+📁 signsense/
+├── data/ # Gesture images dataset
+├── models/ # Trained model files
+├── notebooks/ # Development notebooks
+├── signsense_app.py # Real-time application script
+├── train_model.py # Model training script
+├── utils.py # Helper functions
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
+
+---
+
+## 🔄 How It Works
+
+- 📥 **Capture:** Webcam captures hand gesture images
+- 🧠 **Predict:** Trained model classifies the gesture
+- 📝 **Display:** Predicted character is shown as text
+- 🔁 **Loop:** The process repeats in real-time for continuous input
+
+---
+
+## 📋 Prerequisites
+
+- Python 3.7+
+- Webcam-enabled system
+- Virtual environment (optional)
+- Required Python packages (`requirements.txt`)
+
+---
+
+## 🧪 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/SignSense.git
+   cd SignSense
+2. Create a virtual environment (optional but recommended):
+   python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Train the model (optional if using a pre-trained model):
+   python train_model.py
+
+5. Run the real-time gesture recognition app:
+   python signsense_app.py
+
+---
+
+## 🗂️ Dataset
+You can use:
+•Public datasets like Kaggle ASL
+•Or collect your own labeled images using the webcam
+
+---
+
+## 🧠 Key Features
+•Accurate recognition of static ASL gestures
+•Offline usage – no internet required
+•Easily extendable with more signs or dynamic gestures
+•Simple interface for demo and development
+
+---
+
+## 📈 Future Enhancements
+•🔄 Add support for dynamic (sequence-based) signs
+•🌐 Deploy as a web or mobile app
+•🗣️ Integrate text-to-speech for auditory feedback
+•🔤 Multi-language output support
+
+---
+
+## 👨‍💻 Author
+**Royal Rao**
+🎓 M.Tech Data Engineering @ IIT Jodhpur
+📧 royalrao.edu@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
+## 📄 License
+MIT License – Feel free to fork, modify, and build upon it!
