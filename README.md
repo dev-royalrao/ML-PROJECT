@@ -118,9 +118,13 @@ You can use:
 
 ## 👨‍💻 Author
 **Royal Rao**
+
 🎓 M.Tech Data Engineering @ IIT Jodhpur
+
 📧 royalrao.edu@gmail.com
+
 🔗 LinkedIn
+
 💻 GitHub
 
 ## 📄 License
