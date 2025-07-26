@@ -5,40 +5,27 @@ While sign language is a powerful communication medium, it is not widely underst
 
 🔍 Key Features
 1. Real-time static gesture recognition using a webcam
-
 2. Deep learning–based gesture classification
-
 3. Text output for recognized signs
-
 4. Simple and accessible interface
 
 ⚙️ Tech Stack
 1. Python
-
 2. TensorFlow / Keras
-
 3. OpenCV
-
 4. NumPy & Pandas
 
 📌 Project Workflow
 1. Planning & Design
-
 2. Data Collection and Preprocessing
-
 3. Model Training and Evaluation
-
 4. Real-Time Integration
-
 5. Future Development Possibilities
 
 🚀 Future Enhancements
 1. Dynamic sign (gesture sequence) recognition
-
 2. Integration with speech synthesis (text-to-speech)
-
 3. Deployment on web and mobile platforms
-
 4. Multi-language support
 
 🤝 Contributing
